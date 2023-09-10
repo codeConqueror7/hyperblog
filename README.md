@@ -10,4 +10,3 @@ Muy bien
 
 pero en resumen vamos a aprender a usar cherry.pick, que suena algo rico    
 Incluye ejemplos
-Disponibles para todas las esdades
